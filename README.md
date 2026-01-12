@@ -7,5 +7,5 @@ A small office networking simulation using Cisco packet tracer
 - Each department has two PCs, a printer and a switch
 
 ## Skills
-Subnetting
-IP Configurations
+- Subnetting
+- IP Configurations
