@@ -6,6 +6,6 @@ A small office networking simulation using Cisco packet tracer
 LAN connecting two departments, Acounts and Delivery departments
 Each department has two PCs, a printer and a switch
 
-##Skills
+## Skills
 Subnetting
 IP Configurations
